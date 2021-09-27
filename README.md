@@ -1,3 +1,3 @@
 # Demo
 
-Just a curious attemp.
+Just a curious attempt.
